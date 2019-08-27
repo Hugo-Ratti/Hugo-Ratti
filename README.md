@@ -1,3 +1,3 @@
-nome:hugomoraesratti
+Nome: Hugo Moraes Ratti
 
-escola:senai
+Escola: SENAI
